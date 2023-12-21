@@ -1,0 +1,11 @@
+.pokemon-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.input-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
